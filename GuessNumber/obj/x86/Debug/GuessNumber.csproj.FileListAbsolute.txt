@@ -1,0 +1,7 @@
+E:\Matyukov\csharp\Lesson7\GuessNumber\bin\Debug\GuessNumber.exe
+E:\Matyukov\csharp\Lesson7\GuessNumber\bin\Debug\GuessNumber.pdb
+E:\Matyukov\csharp\Lesson7\GuessNumber\obj\x86\Debug\GuessNumber.Form1.resources
+E:\Matyukov\csharp\Lesson7\GuessNumber\obj\x86\Debug\GuessNumber.Properties.Resources.resources
+E:\Matyukov\csharp\Lesson7\GuessNumber\obj\x86\Debug\GuessNumber.csproj.GenerateResource.Cache
+E:\Matyukov\csharp\Lesson7\GuessNumber\obj\x86\Debug\GuessNumber.exe
+E:\Matyukov\csharp\Lesson7\GuessNumber\obj\x86\Debug\GuessNumber.pdb

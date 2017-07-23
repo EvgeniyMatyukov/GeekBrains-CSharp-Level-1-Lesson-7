@@ -1,0 +1,10 @@
+E:\Matyukov\csharp\Lesson7\Template\bin\Debug\Template.exe
+E:\Matyukov\csharp\Lesson7\Template\bin\Debug\Template.pdb
+E:\Matyukov\csharp\Lesson7\Template\obj\x86\Debug\Template.Properties.Resources.resources
+E:\Matyukov\csharp\Lesson7\Template\obj\x86\Debug\Template.csproj.GenerateResource.Cache
+E:\Matyukov\csharp\Lesson7\Template\obj\x86\Debug\Template.exe
+E:\Matyukov\csharp\Lesson7\Template\obj\x86\Debug\Template.pdb
+E:\Matyukov\csharp\Lesson7\Template\obj\x86\Debug\Template.Form1.resources
+E:\Matyukov\csharp\Lesson7\Template\bin\Debug\Template.txt
+d:\portfolio\Lesson7\Template\obj\x86\Debug\Template.exe
+d:\portfolio\Lesson7\Template\obj\x86\Debug\Template.pdb
